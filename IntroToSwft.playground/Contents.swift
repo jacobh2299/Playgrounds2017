@@ -2,7 +2,7 @@
 
 import UIKit
 //Explicit Type Declaration with no value
-var ramen :String
+//var ramen :String
 //Implicit Type declration with a value to assign type.
 
 //var soup = "Ramen"
@@ -36,6 +36,7 @@ var q :String
 q = "Is that a boneless Bizza?"
 print(q)
 bizza = true
+print("Yes")
 if bizza == true
 {
     
