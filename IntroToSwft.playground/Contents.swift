@@ -21,3 +21,12 @@ isReal = false
 isReal = true
 var bonelessBizza = "tryin to hop on that ranch?"
 print(bonelessBizza)
+var meme :String
+meme = "Does the bizza got bones?"
+var AnswerTrue = "It not a bonelessBizza"
+var AnswerFalse = "Dat a bonelessBizza my dude, go get the ranch."
+print(meme)
+var bizza :Bool
+bizza = false
+print(bizza)
+print(AnswerFalse)
